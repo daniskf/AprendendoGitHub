@@ -1,2 +1,2 @@
 # AprendendoGitHub
-Meu repositório da faculdade
+Meu repositório da faculdade para GitHub
