@@ -1,2 +1,2 @@
 Fizemos uma modificação!
-bugfix do desenvolvedor 1
+As correções foram feitas pelo desenvolvedor 1 e 2
